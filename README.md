@@ -14,7 +14,8 @@ This project is a **real-time data streaming pipeline** that fetches user data f
 ---
 
 ### Architecture
-![Architecture Diagram](path_to_your_image)  
+![Architecture Diagram](https://github.com/user-attachments/assets/2a4c919a-0555-4d72-a9bc-03229ab76217)
+
 
 - **Airflow**: Automates data fetching from the API.  
 - **Kafka**: Streams the data in real-time.  
