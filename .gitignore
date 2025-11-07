@@ -1,0 +1,32 @@
+# Virtual environments
+venv*/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE configs
+.idea/
+.vscode/
+
+# Logs & temp files
+*.log
+logs/
+tmp/
+*.pid
+
+# OS files
+.DS_Store
+
+# Docker
+*.pid
+*.sock
+.env
+
+# Airflow
+airflow/logs/
+airflow/tmp/
