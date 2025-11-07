@@ -49,9 +49,4 @@ This project is a **real-time data streaming pipeline** that fetches user data f
 4. **Start all services using Docker Compose:**
    ```bash
    docker-compose up
-
-
-
-
-
-
+   
